@@ -1,0 +1,25 @@
+.footer{
+    background-color: #1E262C;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.social-media{
+    display: flex;
+    justify-content: center;
+}
+
+.social-media img{
+    max-width: 5%;
+    margin-top: 10px;
+    padding: 10px;
+    height: auto;
+}
+
+h6{
+    margin: 5px;
+    color: #708090;
+}

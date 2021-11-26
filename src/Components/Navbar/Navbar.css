@@ -1,0 +1,54 @@
+.navbar{
+    background-color: #1E262C;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul li{
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+
+.logo-navbar{
+    width: 4rem;
+    margin: 10px;
+}
+
+.navbar-left{
+    display: flex;
+    align-items: center;
+    margin: 0 15px;
+}
+
+.navbar-left img {
+    padding-right: 15px;
+}
+
+.navbar-right{
+    
+}
+
+.navbar-right ul{
+    display: flex;
+}
+
+.navbar-right li{
+    padding: 0 15px;
+}
+
+.navbar-left input{
+    border-radius: 5px;
+    height: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.h1-header{
+    margin-top: 5px;
+}
